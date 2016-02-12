@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deflaviiiosephi00wolfgoog_0005.png"; bbox 0 0 3468 5128; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 383 2192 1460 2544">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 383 2192 1460 2544">
+     <span class='ocr_line' id='line_1_1' title="bbox 529 2192 1310 2264; baseline -0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 529 2194 596 2264; x_wconf 84' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 625 2192 1023 2264; x_wconf 85' lang='lat' dir='ltr'>DISSERTATIONE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1048 2194 1310 2261; x_wconf 87' lang='lat' dir='ltr'><strong>PROBANDA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 383 2332 1460 2408; baseline -0.004 -6"><span class='ocrx_word' id='word_1_4' title='bbox 383 2338 449 2402; x_wconf 90' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 479 2336 905 2408; x_wconf 90' lang='lat' dir='ltr'>PHILOSOPHORUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 939 2335 1170 2404; x_wconf 86' lang='lat' dir='ltr'><strong>ORDINEM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1203 2332 1460 2407; x_wconf 82' lang='lat' dir='ltr'>RETTULIT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 776 2478 1082 2544; baseline -0.01 0"><span class='ocrx_word' id='word_1_8' title='bbox 776 2479 843 2544; x_wconf 87' lang='lat' dir='ltr'><strong>OT</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 842 2480 875 2542; x_wconf 85' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_10' title='bbox 875 2478 905 2543; x_wconf 91' lang='lat' dir='ltr'><em>O</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 932 2479 1082 2542; x_wconf 89' lang='lat' dir='ltr'><em>KERN</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1738 5128">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1738 5128">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1738 5128; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1738 5128; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
